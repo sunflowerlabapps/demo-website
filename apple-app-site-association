@@ -1,0 +1,25 @@
+{
+  "applinks": {
+"apps": [],
+      "details": [
+           {
+             "appIDs": ["K2443WZHMJ.com.sfl.is.breakersparadise.dev"],
+             "paths": [ "*" ],
+             "components": [
+{
+                  "/": "*",
+                  "comment": "Matches any URL whose path starts with *"
+               },
+               {
+                  "/": "/stripe/*",
+                  "comment": "Matches any URL whose path starts with /stripe/"
+               },
+		{
+                  "/": "/auth/*",
+                  "comment": "Matches any URL whose path starts with /auth/"
+               }
+             ]
+           }
+       ]
+   }
+}
