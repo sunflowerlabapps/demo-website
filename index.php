@@ -191,7 +191,7 @@ __ez.queue.addFunc("attach_ezolpl", "attach_ezolpl", ["3ad23945-23c6-4564-7ad7-d
 </ul>
 <p>Improve your image by including an image. </p>
 <p><img src="http://www.mygifs.com/CoverImage.gif" alt="A Great HTML Resource"/></p>
-<p>Add a link to your favorite <a href="https://breakersparadise-stage.s3.us-east-2.amazonaws.com/stripe/id=1">Web site</a>.
+<p>Add a link to your favorite <a href="https://breakersparadise-dev.s3.us-east-2.amazonaws.com/stripe/id=1">Web site</a>.
 Break up your page with a horizontal rule or two. </p>
 <hr/>
 <p>Finally, link to <a href="page2.html">another page</a> in your own Web site.</p>
