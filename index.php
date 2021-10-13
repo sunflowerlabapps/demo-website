@@ -191,10 +191,10 @@ __ez.queue.addFunc("attach_ezolpl", "attach_ezolpl", ["3ad23945-23c6-4564-7ad7-d
 </ul>
 <p>Improve your image by including an image. </p>
 <p><img src="http://www.mygifs.com/CoverImage.gif" alt="A Great HTML Resource"/></p>
-<p>Add a link to your favorite <a href="turk://turk/stripe/true">Web site</a>.
+<p>Add a link to your favorite <a href="brekersparadise://brekersparadise/stripe/true">Web site</a>.
 Break up your page with a horizontal rule or two. </p>
 <hr/>
-<p>Finally, link to <a href="turk://open.my.app/lorem/ipsum">another page</a> in your own Web site.</p>
+<p>Finally, link to <a href="brekersparadise://open.my.app/lorem/ipsum">another page</a> in your own Web site.</p>
 <!-- And add a copyright notice.-->
 <p>&#169; Wiley Publishing, 2011</p>
 
