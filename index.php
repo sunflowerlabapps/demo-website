@@ -194,7 +194,7 @@ __ez.queue.addFunc("attach_ezolpl", "attach_ezolpl", ["3ad23945-23c6-4564-7ad7-d
 <p>Add a link to your favorite <a href="turk://turk/stripe/true">Web site</a>.
 Break up your page with a horizontal rule or two. </p>
 <hr/>
-<p>Finally, link to <a href="app://open.my.app/lorem/ipsum">another page</a> in your own Web site.</p>
+<p>Finally, link to <a href="turk://open.my.app/lorem/ipsum">another page</a> in your own Web site.</p>
 <!-- And add a copyright notice.-->
 <p>&#169; Wiley Publishing, 2011</p>
 
